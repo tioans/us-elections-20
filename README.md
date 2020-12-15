@@ -32,5 +32,5 @@ The election dataset collected from Kaggle. Furthermore, an additional dataset w
 2. The generated interactive map illustrates which states were won by which candidate; states with the color blue (all shades) were won by the Democratic Party candidate. States with the color red (all shades) were won by the Republican Party candidate. The darker the shade the bigger the lead for the corresponding party.
 3. Although there are a number of non-major parties involved in the presidential election, the highest voted "third-party" in every state is the Libertarian Party, with the most votes taken in South Dakota (11095, 2.625 %), followed by North Dakota and Utah.
 
-## Aknowledgments
+## Acknowledgments
 Thanks to Raphael Fontes for gathering and publishsing the dataset to [Kaggle](https://www.kaggle.com/unanimad/us-election-2020). In addition, I'd like to thank Ashish Gupta for inspiring the visualization approach ([link](https://www.kaggle.com/roydatascience/us-election-results-2020)).

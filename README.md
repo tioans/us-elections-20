@@ -3,6 +3,7 @@ Repository for the Udacity Data Scientist Nanodegree, project 1. An analysis of 
 
 ![Header](us-election-header.png)
 
+
 ## About 
 The 59th quadrennial US presidential election was held on Tuesday, November 3, 2020. To win the election, the candidate needs as a minimum 270 out of 538 electoral votes. 
 
@@ -14,17 +15,17 @@ This project hopes to better explain the election results by use of official dat
 
 The dataset was obtained from Kaggle: https://www.kaggle.com/unanimad/us-election-2020
 
-### Libraries
+## Libraries
 
 For this project, Numpy, Pandas and Plotly were used.
 
-### File breakdown 
+## File breakdown 
 
 * 2
 * 1
 * 3
 
-### Summary
+## Summary
 
-### Aknowledgments
+## Aknowledgments
 

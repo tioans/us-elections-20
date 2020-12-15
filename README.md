@@ -17,7 +17,7 @@ The dataset was obtained from Kaggle: https://www.kaggle.com/unanimad/us-electio
 
 ## Libraries
 
-For this project, Numpy, Pandas and Plotly were used.
+For this project, Numpy, Pandas and Plotly were used. Furthermore, it was developed as a Google Colab notebook.
 
 ## File breakdown 
 

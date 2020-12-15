@@ -21,11 +21,16 @@ For this project, Numpy, Pandas and Plotly were used.
 
 ## File breakdown 
 
-* 2
-* 1
-* 3
+* us_elections_20.ipynb
+Jupyter Notebook with the analysis and code.
+* archive.zip
+The election dataset collected from Kaggle. Furthermore, an additional dataset with US state names and initials was added to the archive (also collected from Kaggle). 
 
 ## Summary
 
-## Aknowledgments
+1. Based on the data, California is the state with the highest amount of votes by a comfortable 6 million lead.
+2. The generated interactive map illustrates which states were won by which candidate; states with the color blue (all shades) were won by the Democratic Party candidate. States with the color red (all shades) were won by the Republican Party candidate. The darker the shade the bigger the lead for the corresponding party.
+3. Although there are a number of non-major parties involved in the presidential election, the highest voted "third-party" in every state is the Libertarian Party, with the most votes taken in South Dakota (11095, 2.625 %), followed by North Dakota and Utah.
 
+## Aknowledgments
+Thanks to Raphael Fontes for gathering and publishsing the dataset to [Kaggle](https://www.kaggle.com/unanimad/us-election-2020). In addition, I'd like to thank Ashish Gupta for inspiring the visualization approach ([link](https://www.kaggle.com/roydatascience/us-election-results-2020)).

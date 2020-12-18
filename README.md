@@ -1,5 +1,5 @@
 # udy-ds-p1-us_election_20
-Repository for the Udacity Data Scientist Nanodegree, project 1. An analysis of the 2020 US Presidential election.
+Repository for the Udacity Data Scientist Nanodegree, project 1. An analysis of the 2020 US Presidential election. Medium [article](https://tioans.medium.com/this-is-how-the-2020-us-election-results-look-like-ae04fc662f06).
 
 ![Image](us-election-header.png?raw=true)
 
